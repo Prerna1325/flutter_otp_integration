@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271267290033",
+    "project_id": "otpintegration-cdac3",
+    "storage_bucket": "otpintegration-cdac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271267290033:android:750beef8350970a6e77b90",
+        "android_client_info": {
+          "package_name": "com.example.otp_integration"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ9RLOOzn3WdxArgdJe45IAb8ua9nGaz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
